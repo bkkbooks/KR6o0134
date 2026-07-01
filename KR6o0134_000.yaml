@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0134/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛一百八名讚
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1679.xml
+    old_id: T32n1679
+hash: sha256:e753ea061274da82075819f647625f28ee4c5bf100efb4f2cbeb9750b35865f6
