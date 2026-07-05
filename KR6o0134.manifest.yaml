@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0134_000.yaml, hash: 'sha256:e753ea061274da82075819f647625f28ee4c5bf100efb4f2cbeb9750b35865f6'}
-  - {seq: 1, filename: KR6o0134_001.yaml, hash: 'sha256:7ebcb2befd041edb66cee513e34dcbb716e1f8a3a71f382e0f616d76695659f8'}
+  - {seq: 1, filename: KR6o0134_001.yaml, hash: 'sha256:61aa1b349796538f2ddb20325a3775b2836f17b5ca864fd165a42b61b1d02d62'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6o0134_001.markers.yaml, hash: 'sha256:c196953b44e4dd539c9f84333a2ebf623055a951c52864850a1a4c29ff4d88d3'}
+  - {seq: 0, role: markers, filename: assets/KR6o0134_000.markers.yaml, hash: 'sha256:8b84a0ebfd39da770c0f340ff7de898d975779bc2efbb536e452a53b96c2f859'}
+  - {seq: 1, role: markers, filename: assets/KR6o0134_001.markers.yaml, hash: 'sha256:810e91cc4980e4d3d0ceadeaddb607f1702bb3ece95437fec313caba0f8c92a2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛一百八名讚
   type: juan
   level: 1
-hash: sha256:b1c4dd5171ac1b0a92f40a106de7e38c67920f7155cfa2e4b79696d8a638348e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:667a8d42c4217b01f4cb045529adf1ce4e951a431bdf4fef36cd849dcdc4e8f0
